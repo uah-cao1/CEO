@@ -1,6 +1,6 @@
 CEOPATH 	= $(dir $(abspath $(lastword $(MAKEFILE_LIST))))
 CUDAPATH	= /usr/local/cuda
-PYTHONPATH      = $(HOME)/anaconda3
+PYTHONPATH      = $(HOME)/anaconda3/envs/ceo
 CEOPYPATH	= $(CEOPATH)/python/ceo
 NVCC          	= $(CUDAPATH)/bin/nvcc
 CUDALIBPATH   	= $(CUDAPATH)/lib64
