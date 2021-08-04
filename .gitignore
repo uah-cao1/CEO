@@ -25,3 +25,24 @@ doc/ceo.*
 doc/cyceo.*
 
 *.DS_Store
+aaStats/Makefile
+atmosphere/Makefile
+BTBT/Makefile
+centroiding/Makefile
+GBTBT/Makefile
+gmtMirrors/Makefile
+imaging/Makefile
+include/plotly.credentials
+iterativeSolvers/Makefile
+jsmn/libjsmn.a
+lib/libceo.a
+lib/libjsmn.a
+LMMSE/Makefile
+plotly/Makefile
+plotly/plotly.cython.nw
+pyramid/Makefile
+rayTracing/Makefile
+segmentPistonSensor/Makefile
+shackHartmann/Makefile
+source/Makefile
+utilities/Makefile
